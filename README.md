@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Frontend+Developer;React.js+%7C+React+Native;Building+Modern+Web+Apps;Always+Learning+New+Things)](https://git.io/typing-svg)
 
-<img align="right" width="350" src="https://undraw.co/api/illustrations/developer_activity.svg" />
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 🚀 Passionate about building responsive web and mobile applications with modern JavaScript frameworks.
 
