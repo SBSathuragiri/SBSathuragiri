@@ -2,7 +2,7 @@
 
 ### Frontend Developer | React.js & React Native Enthusiast
 
-<img align="right" width="350" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Frontend+Developer;React.js+%7C+React+Native;Building+Modern+Web+Apps;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 🚀 Passionate about building responsive web and mobile applications with modern JavaScript frameworks.
 
